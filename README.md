@@ -1,4 +1,4 @@
-# MasterEdiCool.github.io
+# Chen-Edison.github.io
 
 Edison Chen's personal portfolio — a multi-page static site covering projects, bio, contact info, and resume.
 
